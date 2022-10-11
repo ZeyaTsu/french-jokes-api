@@ -13,7 +13,7 @@ jokeapi.all()
 # to print the joke chosen, 2 ways:
 
 # 1 ST WAY
-print(jokeapi.jokes[0]
+print(jokeapi.jokes[0])
 
 # 2 ND WAY
 # From the JSON File, just get the "reponse:" and print it or whatever.
